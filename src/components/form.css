@@ -1,0 +1,7 @@
+@media (max-width: 600px) {
+    .sel {
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: max-content;    
+    }
+  }
